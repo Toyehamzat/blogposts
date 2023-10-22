@@ -1,2 +1,3 @@
 # blogposts
-using mdx
+
+external git repo for mdx files
